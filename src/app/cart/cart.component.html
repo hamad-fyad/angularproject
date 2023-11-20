@@ -1,0 +1,26 @@
+<h2 class="text-center mb-4">Cart</h2>
+<table class="table table-striped">
+  <tr>
+    <th>buidlings</th>
+    <th>item</th>
+    <th>price</th>
+    <th>dec</th>
+    <th>Quantity</th>
+    <th>add</th>
+    <th>Total</th>
+  </tr>
+  <!--directive ngfor ngif ngswitch ngclass ng style -->
+  <tr *ngFor="let s of building">
+    <td>{{s.buidlings.title}}</td>
+    <td><img class="img-thumbnail" src="{{s.buidlings.img}}" alt=""></td>
+    <td>{{s.buidlings.price| currency}}</td>
+    <td><button (click)="subQty(s.buidlings)">-</button></td>
+    <td>{{s.qty}}</td>
+    <td><button (click)="addQty(s.buidlings)">+</button></td>
+    <td>{{s.buidlings.price* s.qty|currency}}</td>
+  </tr>
+</table>
+<h3 class="text-center mb-4">Total: {{total | currency}} </h3>
+<button *ngIf="user" (click)="pay()">pay</button>
+<button (click)="clear()">CLEAR</button>
+

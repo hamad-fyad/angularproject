@@ -1,0 +1,19 @@
+<ul style="float:right;padding:10px;" *ngFor="let B of b">
+    <li>
+    <div class="card">
+      <img class="card-img-top" style="width: 300px; height: 300px;" [src]="B.img" alt="Card image cap">
+      <div class="card-body">
+        <h4 class="card-title">{{B.title}}</h4>
+        <p class="card-text">
+          the prices of the buildings is {{B.price | currency}}.
+        </p>                              <!--event binding -->
+        <button class="btn btn-primary" (click)="addToCart(B)">add to cart</button>
+
+      </div>
+    </div>
+  </li>
+  </ul>
+  
+  
+  
+     

@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<br>
+<div class="row" >
+                  <!--directive ngfor-->
+  <div class="col" *ngFor="let b of p1" >
+    <div class="card">
+      <div class="card-img-top"><img src = {{b.img}} style="width: 200px; height: 200px;"></div>
+      <div class="card-header">{{b.title}}</div>
+                                              <!--pipe-->
+      <div class="card-text">price: {{b.price | currency}}</div>
+      <button class="btn btn-primary" (click)="addToCart(b)">add to cart</button>
+    </div>
+  </div>
+</div>

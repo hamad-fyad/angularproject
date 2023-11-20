@@ -1,0 +1,258 @@
+{
+  "allBuilding": [
+    {
+      "title": "Summer House",
+      "img": "https://www.scandinaviastandard.com/wp-content/uploads/2020/06/Airbnb-Holte-Summer-House-Summerhouse-Denmark-Danmark.jpg",
+      "price": 300000
+    },
+    {
+      "title": "Brick House",
+      "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+      "price": 350000
+    },
+    {
+      "title": "Skyscrapers",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH7recba2nSzYM4JGRZJWLj9YcV-7iV42vg&usqp=CAU",
+      "price": 3210000
+    },
+    {
+      "title": "Barn House",
+      "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+      "price": 250000
+    },
+    {
+      "title": "Renovated",
+      "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+      "price": 350000
+    },
+    {
+      "title": "Villa1",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5A0mfr8xfiQz24M0qe1M-LTMtEj3t87UqfQ&usqp=CAU",
+      "price": 9640000
+    },
+    {
+      "title": "Villa2",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqogQ7E47bJp_mA7IvAzmoll-WKz1TFNwtPw&usqp=CAU",
+      "price": 3540000
+    },
+    {
+      "title": "Villa3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sZYG-h72FrP5cBkaQ27KppNmkr8aUu_dZg&usqp=CAU",
+      "price": 321000012
+    },
+    {
+      "title": "Villa4",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHRSDX7_W1p-WZ8izS4jlM1uMhGOKNDxtBjg&usqp=CAU",
+      "price": 2502310
+    },
+    {
+      "title": "Villa5",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4dqpxX8WEmiXAiTwmiAjA8y9haw5lpiaaA&usqp=CAU",
+      "price": 530000
+    },
+    {
+      "title": "Apartment1",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhsLcNI7ctiXYqaKiiy-CrXjSRxw4_rtzUQ&usqp=CAU",
+      "price": 30000
+    },
+    {
+      "title": "Apartment2",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdc2tbKXr7p0KQQ5EmpFYCmK_1tGOMfGOo6A&usqp=CAU",
+      "price": 600205
+    },
+    {
+      "title": "Apartment3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8q6SS7hMzIBo64NFAy6CIOVUOB3Hhq9wZRAnGA5ZYudNCWIWWijYAAdn_7yr4tLCUB78&usqp=CAU",
+      "price": 250000
+    },
+    {
+      "title": "Apartment4",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsW9GMyPiJO2Be_I7uGhdCr7htk1AAZ08O1g&usqp=CAU",
+      "price": 150000
+    },
+    {
+      "title": "Apartment5",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOt6Ke3dfQ9aGI2UYTOH0z-YJ7uUoq51FAmg&usqp=CAU",
+      "price": 908832
+    }
+  ],
+  "Building": [
+    {
+      "title": "Summer House",
+      "img": "https://www.scandinaviastandard.com/wp-content/uploads/2020/06/Airbnb-Holte-Summer-House-Summerhouse-Denmark-Danmark.jpg",
+      "price": 300000
+    },
+    {
+      "title": "Brick House",
+      "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+      "price": 350000
+    },
+    {
+      "title": "Skyscrapers",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH7recba2nSzYM4JGRZJWLj9YcV-7iV42vg&usqp=CAU",
+      "price": 3210000
+    },
+    {
+      "title": "Barn House",
+      "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+      "price": 250000
+    },
+    {
+      "title": "Renovated",
+      "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+      "price": 350000
+    }
+  ],
+  "villa": [
+    {
+      "title": "Villa1",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5A0mfr8xfiQz24M0qe1M-LTMtEj3t87UqfQ&usqp=CAU",
+      "price": 9640000
+    },
+    {
+      "title": "Villa2",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqogQ7E47bJp_mA7IvAzmoll-WKz1TFNwtPw&usqp=CAU",
+      "price": 3540000
+    },
+    {
+      "title": "Villa3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-sZYG-h72FrP5cBkaQ27KppNmkr8aUu_dZg&usqp=CAU",
+      "price": 321000012
+    },
+    {
+      "title": "Villa4",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHRSDX7_W1p-WZ8izS4jlM1uMhGOKNDxtBjg&usqp=CAU",
+      "price": 2502310
+    },
+    {
+      "title": "Villa5",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRb4dqpxX8WEmiXAiTwmiAjA8y9haw5lpiaaA&usqp=CAU",
+      "price": 530000
+    }
+  ],
+  "apartment": [
+    {
+      "title": "Apartment1",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBhsLcNI7ctiXYqaKiiy-CrXjSRxw4_rtzUQ&usqp=CAU",
+      "price": 30000
+    },
+    {
+      "title": "Apartment2",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdc2tbKXr7p0KQQ5EmpFYCmK_1tGOMfGOo6A&usqp=CAU",
+      "price": 600205
+    },
+    {
+      "title": "Apartment3",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8q6SS7hMzIBo64NFAy6CIOVUOB3Hhq9wZRAnGA5ZYudNCWIWWijYAAdn_7yr4tLCUB78&usqp=CAU",
+      "price": 250000
+    },
+    {
+      "title": "Apartment4",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsW9GMyPiJO2Be_I7uGhdCr7htk1AAZ08O1g&usqp=CAU",
+      "price": 150000
+    },
+    {
+      "title": "Apartment5",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOt6Ke3dfQ9aGI2UYTOH0z-YJ7uUoq51FAmg&usqp=CAU",
+      "price": 908832
+    }
+  ],
+  "Users": [
+    {
+      "name": "hamad",
+      "email": "hamad@gmail.com",
+      "password": "1234",
+      "gender": "male",
+      "date": "1999-12-21",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSos8WJJwI6qi-oyEqumgt5myV32u4aP3FvUA&usqp=CAU",
+      "id": 1
+    },
+    {
+      "name": "shady",
+      "email": "shady@gmail.com",
+      "password": "12345",
+      "gender": "male",
+      "date": "1997-07-14",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSos8WJJwI6qi-oyEqumgt5myV32u4aP3FvUA&usqp=CAU",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "Buildings": [
+        {
+          "qty": 1,
+          "buidlings": {
+            "title": "Brick House",
+            "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+            "price": 350000
+          }
+        },
+        {
+          "qty": 1,
+          "buidlings": {
+            "title": "Skyscrapers",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH7recba2nSzYM4JGRZJWLj9YcV-7iV42vg&usqp=CAU",
+            "price": 3210000
+          }
+        },
+        {
+          "qty": 1,
+          "buidlings": {
+            "title": "Barn House",
+            "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+            "price": 250000
+          }
+        },
+        {
+          "qty": 1,
+          "buidlings": {
+            "title": "Renovated",
+            "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+            "price": 350000
+          }
+        }
+      ],
+      "sum": 4160000,
+      "id": 1
+    },
+    {
+      "Buildings": [
+        {
+          "qty": 1,
+          "buidlings": {
+            "title": "Brick House",
+            "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+            "price": 350000
+          }
+        },
+        {
+          "qty": 1,
+          "buidlings": {
+            "title": "Skyscrapers",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaH7recba2nSzYM4JGRZJWLj9YcV-7iV42vg&usqp=CAU",
+            "price": 3210000
+          }
+        },
+        {
+          "qty": 1,
+          "buidlings": {
+            "title": "Barn House",
+            "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+            "price": 250000
+          }
+        },
+        {
+          "qty": 1,
+          "buidlings": {
+            "title": "Renovated",
+            "img": "https://empire-s3-production.bobvila.com/articles/wp-content/uploads/2018/01/Traditional_Style_Brick_Homes.jpg",
+            "price": 350000
+          }
+        }
+      ],
+      "sum": 4160000,
+      "id": 2
+    }
+  ]
+}

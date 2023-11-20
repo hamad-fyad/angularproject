@@ -1,0 +1,45 @@
+
+<html>
+<div style="width: fit-content;height:fit-content;opacity:0.9 ;" >
+  
+    <div class="about-sectiont transbox containers">
+        <h1 style="color:white ;">About Us Page</h1>
+        <p style="color:white ;">we are two students at ort who are trying to learn new stuff.</p>
+        
+      </div>
+       <button style="text-align: center;" (click)="change()">click to change to {{background}}</button>
+      
+        <div  class="column containers">
+          <div  class="card containers">
+         
+            <img [src]="imgurl1"  style="width:100%;height: 252px;">
+            <div [class]="styling" class="container">
+                                    <!--interpaltion-->
+              <h2 [class]="styling">{{name1}} ID:{{ID1}}</h2>
+              <p [class]="styling" class="title">Art Director</p>
+              <p [class]="styling" style="overflow:none ;">if your day is ruined by someone else u have made your self a joke ruin it yourself .</p>
+              <p [class]="styling">{{email1}}</p>
+            </div>
+          </div>
+        </div>
+        <div class="column containers">
+          <div class="card containers"> 
+            <!--proprty binding-->
+            <img [src]="imgurl2" style="width:100%">
+            <div [class]="styling" class="container">
+              <h2 [class]="styling">{{name2}} ID:{{ID2}}</h2>
+              <p [class]="styling" class="title">Designer</p>
+              <p [class]="styling" style="overflow:none ;">i am a man that doesn't let people ruin my day i ruin my own day .</p>
+              <p [class]="styling">{{email2}}</p>
+             
+            </div>
+          </div>
+        </div>
+       
+          
+         
+        
+    
+
+    </div>
+</html>

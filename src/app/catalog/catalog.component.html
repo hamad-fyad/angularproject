@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<div class="row">
+  <div class="col-auto" style="size: 300px;">
+    <!--here is the parent component that allows the child compoents to communicate 
+      between each other with parant help here we use the event emiter and the @output from the child @input to the other here the data flow
+    gets the genre from the app-geners with the help of eventemitter -->
+    <app-geners (changeGenre)="setGenre($event)"></app-geners>
+  </div>
+  <div class="col-auto" >
+    <app-buildings [type]="_type"></app-buildings>
+  </div>
+  
+</div>
